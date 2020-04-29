@@ -1,4 +1,4 @@
-# Ineuron_ML-Deployment
+ML-Deployment
 
 
 https://ineuron.ai/home/
